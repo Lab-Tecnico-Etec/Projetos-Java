@@ -2,6 +2,15 @@
 
 Acervo de aprendizagem com exercícios acadêmicos de Java organizados por listas, importados da pasta `java/` do repositório original sem transferir o restante do repositório pessoal.
 
+## Autoria e equipe
+
+Este projeto foi desenvolvido em colaboração por:
+
+- **Luca Toniolo** — [@Lvc4br](https://github.com/Lvc4br)
+- **Fred** — [@csx-santosz](https://github.com/csx-santosz)
+- **Bianca** — [@bianca2804](https://github.com/bianca2804)
+- **Arthur** - [@Chiizo].(https://github.com/Chiizo-quent).
+
 ## Estrutura
 
 - `listaA/`
